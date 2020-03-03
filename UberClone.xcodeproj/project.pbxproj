@@ -11,6 +11,7 @@
 		24E44F08240E7AF0005A4E6D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E44F07240E7AF0005A4E6D /* SceneDelegate.swift */; };
 		24E44F0F240E7AF1005A4E6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24E44F0E240E7AF1005A4E6D /* Assets.xcassets */; };
 		24E44F25240E7C6D005A4E6D /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E44F24240E7C6D005A4E6D /* LoginController.swift */; };
+		24E44F27240E8CD3005A4E6D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E44F26240E8CD3005A4E6D /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		24E44F0E240E7AF1005A4E6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24E44F13240E7AF1005A4E6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		24E44F24240E7C6D005A4E6D /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
+		24E44F26240E8CD3005A4E6D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		24E44F23240E7B67005A4E6D /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				24E44F26240E8CD3005A4E6D /* Extensions.swift */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				24E44F06240E7AF0005A4E6D /* AppDelegate.swift in Sources */,
 				24E44F25240E7C6D005A4E6D /* LoginController.swift in Sources */,
 				24E44F08240E7AF0005A4E6D /* SceneDelegate.swift in Sources */,
+				24E44F27240E8CD3005A4E6D /* Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
